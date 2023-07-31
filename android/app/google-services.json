@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "410184167947",
+    "project_id": "flutter-sign-in-d4da8",
+    "storage_bucket": "flutter-sign-in-d4da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410184167947:android:a5e395839c734ee70a4d0e",
+        "android_client_info": {
+          "package_name": "com.xana.auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410184167947-7e9sqjjmvpd42fckr1e1dh0kd0lu6r5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xana.auth_app",
+            "certificate_hash": "08f950c6661d5cd59e91a1f5c3235b4d2bc98bbb"
+          }
+        },
+        {
+          "client_id": "410184167947-gfs04j6ksuuvqk5fpf31chvl2kbroutt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNofi-QD6_F0EfgM8qHLCZXL44coCQxQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410184167947-e77fnscpu9db446qma60jdh3qmi80osf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
